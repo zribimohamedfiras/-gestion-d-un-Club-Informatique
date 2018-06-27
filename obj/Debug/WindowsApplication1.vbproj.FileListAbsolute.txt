@@ -1,0 +1,108 @@
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Vice_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Vice_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Vice_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\EMC appli\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Noter_un_membre.resources
+C:\Users\abdelkaderj\Desktop\gadour SE\EMC appl\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

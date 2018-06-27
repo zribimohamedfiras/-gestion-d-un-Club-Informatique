@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{956A2D24-B0EB-4326-93AB-D8907BD1E937}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accueil.Designer.vb">
+      <DependentUpon>Accueil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accueil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajout inscrit.Designer.vb">
+      <DependentUpon>Ajout inscrit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ajout inscrit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connexion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connexion.Designer.vb">
+      <DependentUpon>connexion.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulter_Tache_Sponsoring.Designer.vb">
+      <DependentUpon>Consulter_Tache_Sponsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulter_Tache_Sponsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulté Journal.Designer.vb">
+      <DependentUpon>Consulté Journal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulté Journal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controle De Besoin.Designer.vb">
+      <DependentUpon>Controle De Besoin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controle De Besoin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des Notes RH.Designer.vb">
+      <DependentUpon>Gestion des Notes RH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des Notes RH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des Entrées_Sorties.Designer.vb">
+      <DependentUpon>Gestion des Entrées_Sorties.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des Entrées_Sorties.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des Membres RH.Designer.vb">
+      <DependentUpon>Gestion des Membres RH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des Membres RH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des Membres Sonsoring.Designer.vb">
+      <DependentUpon>Gestion des Membres Sonsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des Membres Sonsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des sponsors de membre.Designer.vb">
+      <DependentUpon>Gestion des sponsors de membre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des sponsors de membre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des Sponsors.Designer.vb">
+      <DependentUpon>Gestion des Sponsors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des Sponsors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gestion_des_affectation_de_matiriel.Designer.vb">
+      <DependentUpon>gestion_des_affectation_de_matiriel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gestion_des_affectation_de_matiriel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Membre Communicatuin.Designer.vb">
+      <DependentUpon>Membre Communicatuin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Membre Communicatuin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Membre Evenementiel.Designer.vb">
+      <DependentUpon>Membre Evenementiel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Membre Evenementiel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Membre_Sponsoring.Designer.vb">
+      <DependentUpon>Membre_Sponsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Membre_Sponsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Gestion des absences RH.Designer.vb">
+      <DependentUpon>Gestion des absences RH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des absences RH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plan communication.Designer.vb">
+      <DependentUpon>Plan communication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plan communication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plan Evénementiel.Designer.vb">
+      <DependentUpon>Plan Evénementiel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plan Evénementiel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plan générale.Designer.vb">
+      <DependentUpon>Plan générale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plan générale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plan sponsoring.Designer.vb">
+      <DependentUpon>Plan sponsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plan sponsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presence Inscrit.Designer.vb">
+      <DependentUpon>Presence Inscrit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presence Inscrit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presence Invité.Designer.vb">
+      <DependentUpon>Presence Invité.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presence Invité.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="President et Vise Président.Designer.vb">
+      <DependentUpon>President et Vise Président.vb</DependentUpon>
+    </Compile>
+    <Compile Include="President et Vise Président.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productivité.Designer.vb">
+      <DependentUpon>Productivité.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Productivité.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rebrique Secrétaire Général.Designer.vb">
+      <DependentUpon>Rebrique Secrétaire Général.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rebrique Secrétaire Général.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rebrique_Communication.Designer.vb">
+      <DependentUpon>Rebrique_Communication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rebrique_Communication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rebrique_Evenementiel.Designer.vb">
+      <DependentUpon>Rebrique_Evenementiel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rebrique_Evenementiel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rebrique_Ressources_humaines.Designer.vb">
+      <DependentUpon>Rebrique_Ressources_humaines.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rebrique_Ressources_humaines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rebrique_Sponsoring.Designer.vb">
+      <DependentUpon>Rebrique_Sponsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rebrique_Sponsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Responsable Communication.Designer.vb">
+      <DependentUpon>Responsable Communication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Responsable Communication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Responsable Evenementiel.Designer.vb">
+      <DependentUpon>Responsable Evenementiel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Responsable Evenementiel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des invités.Designer.vb">
+      <DependentUpon>Gestion des invités.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des invités.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Responsable Ressources humaines et son adjoint.Designer.vb">
+      <DependentUpon>Responsable Ressources humaines et son adjoint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Responsable Ressources humaines et son adjoint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Responsable Sponsoring.Designer.vb">
+      <DependentUpon>Responsable Sponsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Responsable Sponsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rebrique Trésorier.Designer.vb">
+      <DependentUpon>Rebrique Trésorier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rebrique Trésorier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des évenements.Designer.vb">
+      <DependentUpon>Gestion des évenements.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des évenements.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Récuperation MDP.Designer.vb">
+      <DependentUpon>Récuperation MDP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Récuperation MDP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des Materiel.Designer.vb">
+      <DependentUpon>Gestion des Materiel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des Materiel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistique Departement Communication.Designer.vb">
+      <DependentUpon>Statistique Departement Communication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statistique Departement Communication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistique Departement Evenmentiel.Designer.vb">
+      <DependentUpon>Statistique Departement Evenmentiel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statistique Departement Evenmentiel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistique Departement Sponsoring.Designer.vb">
+      <DependentUpon>Statistique Departement Sponsoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statistique Departement Sponsoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistique Departement.Designer.vb">
+      <DependentUpon>Statistique Departement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statistique Departement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Accueil.resx">
+      <DependentUpon>Accueil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ajout inscrit.resx">
+      <DependentUpon>Ajout inscrit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="connexion.resx">
+      <DependentUpon>connexion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulter_Tache_Sponsoring.resx">
+      <DependentUpon>Consulter_Tache_Sponsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulté Journal.resx">
+      <DependentUpon>Consulté Journal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controle De Besoin.resx">
+      <DependentUpon>Controle De Besoin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des Notes RH.resx">
+      <DependentUpon>Gestion des Notes RH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des Entrées_Sorties.resx">
+      <DependentUpon>Gestion des Entrées_Sorties.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des Membres RH.resx">
+      <DependentUpon>Gestion des Membres RH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des Membres Sonsoring.resx">
+      <DependentUpon>Gestion des Membres Sonsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des sponsors de membre.resx">
+      <DependentUpon>Gestion des sponsors de membre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des Sponsors.resx">
+      <DependentUpon>Gestion des Sponsors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gestion_des_affectation_de_matiriel.resx">
+      <DependentUpon>gestion_des_affectation_de_matiriel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membre Communicatuin.resx">
+      <DependentUpon>Membre Communicatuin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membre Evenementiel.resx">
+      <DependentUpon>Membre Evenementiel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membre_Sponsoring.resx">
+      <DependentUpon>Membre_Sponsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des absences RH.resx">
+      <DependentUpon>Gestion des absences RH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan communication.resx">
+      <DependentUpon>Plan communication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan Evénementiel.resx">
+      <DependentUpon>Plan Evénementiel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan générale.resx">
+      <DependentUpon>Plan générale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan sponsoring.resx">
+      <DependentUpon>Plan sponsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presence Inscrit.resx">
+      <DependentUpon>Presence Inscrit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presence Invité.resx">
+      <DependentUpon>Presence Invité.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="President et Vise Président.resx">
+      <DependentUpon>President et Vise Président.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productivité.resx">
+      <DependentUpon>Productivité.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rebrique Secrétaire Général.resx">
+      <DependentUpon>Rebrique Secrétaire Général.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rebrique_Communication.resx">
+      <DependentUpon>Rebrique_Communication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rebrique_Evenementiel.resx">
+      <DependentUpon>Rebrique_Evenementiel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rebrique_Ressources_humaines.resx">
+      <DependentUpon>Rebrique_Ressources_humaines.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rebrique_Sponsoring.resx">
+      <DependentUpon>Rebrique_Sponsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Responsable Communication.resx">
+      <DependentUpon>Responsable Communication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Responsable Evenementiel.resx">
+      <DependentUpon>Responsable Evenementiel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des invités.resx">
+      <DependentUpon>Gestion des invités.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Responsable Ressources humaines et son adjoint.resx">
+      <DependentUpon>Responsable Ressources humaines et son adjoint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Responsable Sponsoring.resx">
+      <DependentUpon>Responsable Sponsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rebrique Trésorier.resx">
+      <DependentUpon>Rebrique Trésorier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des évenements.resx">
+      <DependentUpon>Gestion des évenements.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Récuperation MDP.resx">
+      <DependentUpon>Récuperation MDP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des Materiel.resx">
+      <DependentUpon>Gestion des Materiel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistique Departement Communication.resx">
+      <DependentUpon>Statistique Departement Communication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistique Departement Evenmentiel.resx">
+      <DependentUpon>Statistique Departement Evenmentiel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistique Departement Sponsoring.resx">
+      <DependentUpon>Statistique Departement Sponsoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistique Departement.resx">
+      <DependentUpon>Statistique Departement.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t4.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

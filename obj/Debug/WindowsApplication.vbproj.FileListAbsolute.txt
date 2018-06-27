@@ -1,0 +1,360 @@
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\EMC appl new\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\abdelkaderj\Desktop\oracle\EMC appl\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_sponsors_de_membre.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_sponsors_de_membre.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Inscription.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Controle_De_Besoin.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Consulter_Tache_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.gestion_des_affectation_de_matiriel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Productivité.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Evenmentiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Consulter_Tache_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Controle_De_Besoin.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_sponsors_de_membre.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.gestion_des_affectation_de_matiriel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Productivité.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Communication.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Evenmentiel.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Sponsoring.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement.resources
+C:\Users\abdelkaderj\Desktop\EMC appl 4\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Consulter_Tache_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Controle_De_Besoin.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_sponsors_de_membre.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.gestion_des_affectation_de_matiriel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Productivité.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Evenmentiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement.resources
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\firas\Desktop\etude\etude1\2eme laig 2eme semestre\EDBD\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Consulter_Tache_Sponsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Controle_De_Besoin.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_sponsors_de_membre.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.gestion_des_affectation_de_matiriel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Sponsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Productivité.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Communication.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Evenmentiel.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Sponsoring.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement.resources
+C:\Users\firas\Desktop\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Accueil.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Ajout_inscrit.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.connexion.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Consulter_Tache_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Consulté_Journal.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Controle_De_Besoin.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Notes.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Entrées_Sorties.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_RH.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Membres_Sonsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_sponsors_de_membre.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Sponsors.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.gestion_des_affectation_de_matiriel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Communicatuin.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Membre_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_absences_RH.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_Evénementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_générale.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Plan_sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Inscrit.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Presence_Invité.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.President_et_Vise_Président.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Productivité.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Secrétaire_Général.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Ressources_humaines.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Evenementiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_invités.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Ressources_humaines_et_son_adjoint.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Responsable_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Rebrique_Trésorier.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_évenements.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Récuperation_MDP.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Gestion_des_Materiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Communication.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Evenmentiel.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement_Sponsoring.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication1.Statistique_Departement.resources
+C:\Users\firas\Desktop\etude\etude1\2eme\PFA 2eme anne\projet\EMC appl 4_2\WindowsApplication1\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
